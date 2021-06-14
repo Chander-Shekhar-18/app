@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725174041928",
+    "project_id": "zdemo-app-9148b",
+    "storage_bucket": "zdemo-app-9148b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725174041928:android:fc64a5195bc46cf580477d",
+        "android_client_info": {
+          "package_name": "com.example.zdemoappo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725174041928-0tk6p3dhn91umr9iuuo3umh0ef3nt1dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvCKM_l2LO4U-PXoZr9oTEfj-GNuPVDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725174041928-0tk6p3dhn91umr9iuuo3umh0ef3nt1dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
